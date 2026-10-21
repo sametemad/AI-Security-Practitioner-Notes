@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07101f"/><stop offset="1" stop-color="#11172b"/></linearGradient>
+  <linearGradient id="a2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7b61ff"/><stop offset=".5" stop-color="#45b8ff"/><stop offset="1" stop-color="#5ee3ae"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#bg2)"/>
+<text x="800" y="115" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="70" font-weight="700">AI Security: <tspan fill="#6fbfff">Three Practical Pillars</tspan></text>
+<rect x="760" y="150" width="80" height="5" rx="3" fill="url(#a2)"/>
+<g transform="translate(70,235)">
+  <rect width="440" height="490" rx="28" fill="#101a31" stroke="#4f5897" stroke-width="2"/>
+  <circle cx="220" cy="125" r="74" fill="#3a2c8a"/>
+  <circle cx="205" cy="112" r="34" fill="none" stroke="#fff" stroke-width="9"/>
+  <line x1="230" y1="138" x2="265" y2="172" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+  <text x="220" y="275" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="42" font-weight="700">AI for Security</text>
+  <text x="220" y="340" text-anchor="middle" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Multi-model testing</text>
+  <text x="220" y="385" text-anchor="middle" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Repeat runs · validation</text>
+</g>
+<g transform="translate(580,235)">
+  <rect width="440" height="490" rx="28" fill="#0d222e" stroke="#357469" stroke-width="2"/>
+  <path d="M220 55 L285 82 L274 160 Q260 205 220 228 Q180 205 166 160 L155 82 Z" fill="#177f68" stroke="#66e0c0" stroke-width="5"/>
+  <circle cx="220" cy="128" r="28" fill="#fff" opacity=".92"/>
+  <text x="220" y="275" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="42" font-weight="700">Security for AI Agents</text>
+  <text x="220" y="340" text-anchor="middle" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Identity · deterministic policy</text>
+  <text x="220" y="385" text-anchor="middle" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Human approval</text>
+</g>
+<g transform="translate(1090,235)">
+  <rect width="440" height="490" rx="28" fill="#151a36" stroke="#5d53a9" stroke-width="2"/>
+  <circle cx="220" cy="125" r="75" fill="#4a35a4"/>
+  <circle cx="220" cy="92" r="12" fill="#fff"/><circle cx="178" cy="142" r="12" fill="#fff"/><circle cx="262" cy="142" r="12" fill="#fff"/>
+  <line x1="220" y1="104" x2="184" y2="135" stroke="#fff" stroke-width="7"/><line x1="220" y1="104" x2="256" y2="135" stroke="#fff" stroke-width="7"/><line x1="190" y1="142" x2="250" y2="142" stroke="#fff" stroke-width="7"/>
+  <text x="220" y="275" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="42" font-weight="700">Agent Skills &amp; MCP</text>
+  <text x="220" y="340" text-anchor="middle" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Supply-chain risk</text>
+  <text x="220" y="385" text-anchor="middle" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Sandboxing · runtime monitoring</text>
+</g>
+<text x="800" y="830" text-anchor="middle" fill="#8593a8" font-family="Arial,sans-serif" font-size="24">Workshop notes · Toronto · October 2026 · Sam Etemad</text>
+</svg>
