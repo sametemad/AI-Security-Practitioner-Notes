@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07111f"/>
+    <stop offset="0.55" stop-color="#0b1730"/>
+    <stop offset="1" stop-color="#0a1020"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7c5cff"/>
+    <stop offset="0.55" stop-color="#54b9ff"/>
+    <stop offset="1" stop-color="#5ee6b9"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<circle cx="1460" cy="70" r="290" fill="none" stroke="#7c5cff" stroke-width="2" opacity=".35"/>
+<circle cx="80" cy="830" r="330" fill="none" stroke="#5ee6b9" stroke-width="2" opacity=".24"/>
+<rect x="96" y="164" width="72" height="6" rx="3" fill="url(#accent)"/>
+<text x="96" y="285" fill="#f8fbff" font-family="Georgia,serif" font-size="92" font-weight="700">AI Security</text>
+<text x="96" y="395" fill="#f8fbff" font-family="Georgia,serif" font-size="92" font-weight="700">Practitioner <tspan fill="#7c5cff">Notes</tspan></text>
+<text x="100" y="492" fill="#cdd7e7" font-family="Arial,sans-serif" font-size="38">TL/IRL · AI for Security &amp; Security for AI</text>
+<text x="100" y="550" fill="#95a5bd" font-family="Arial,sans-serif" font-size="28">Georgian × AI Sec Eng Toronto · October 20, 2026</text>
+<g transform="translate(104,665)">
+  <rect width="385" height="118" rx="22" fill="#101d35" stroke="#364d7f"/>
+  <text x="28" y="48" fill="#9faeff" font-family="Arial,sans-serif" font-size="22">AI FOR SECURITY</text>
+  <text x="28" y="84" fill="#f5f7fb" font-family="Arial,sans-serif" font-size="25">Multi-model vulnerability discovery</text>
+</g>
+<g transform="translate(520,665)">
+  <rect width="385" height="118" rx="22" fill="#0d2331" stroke="#2b6b66"/>
+  <text x="28" y="48" fill="#67e0c0" font-family="Arial,sans-serif" font-size="22">SECURITY FOR AI</text>
+  <text x="28" y="84" fill="#f5f7fb" font-family="Arial,sans-serif" font-size="25">Identity · policy · least privilege</text>
+</g>
+<g transform="translate(936,665)">
+  <rect width="385" height="118" rx="22" fill="#161a37" stroke="#554b96"/>
+  <text x="28" y="48" fill="#b7a9ff" font-family="Arial,sans-serif" font-size="22">SKILLS &amp; MCP</text>
+  <text x="28" y="84" fill="#f5f7fb" font-family="Arial,sans-serif" font-size="25">Supply-chain &amp; runtime risk</text>
+</g>
+<text x="100" y="850" fill="#8290a5" font-family="Arial,sans-serif" font-size="24">Sam Etemad · sametemad.ca</text>
+</svg>
