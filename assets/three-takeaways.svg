@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081020"/><stop offset="1" stop-color="#0d1530"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#bg3)"/>
+<text x="90" y="120" fill="#fff" font-family="Georgia,serif" font-size="86" font-weight="700">Three <tspan fill="#74b8ff">Takeaways</tspan></text>
+<text x="95" y="176" fill="#9aabc2" font-family="Arial,sans-serif" font-size="28">AI for Security &amp; Security for AI · Toronto</text>
+<g transform="translate(90,260)">
+  <rect width="440" height="430" rx="28" fill="#111b35" stroke="#4c4f9a" stroke-width="2"/>
+  <circle cx="72" cy="72" r="42" fill="#5539c5"/><text x="72" y="84" text-anchor="middle" fill="#fff" font-family="Arial" font-size="34" font-weight="700">01</text>
+  <text x="44" y="175" fill="#fff" font-family="Georgia,serif" font-size="44" font-weight="700">Run models</text>
+  <text x="44" y="225" fill="#fff" font-family="Georgia,serif" font-size="44" font-weight="700">more than once</text>
+  <text x="44" y="305" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Repeated runs can uncover</text>
+  <text x="44" y="345" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">additional findings.</text>
+</g>
+<g transform="translate(580,260)">
+  <rect width="440" height="430" rx="28" fill="#0f2330" stroke="#2d7366" stroke-width="2"/>
+  <circle cx="72" cy="72" r="42" fill="#178368"/><text x="72" y="84" text-anchor="middle" fill="#fff" font-family="Arial" font-size="34" font-weight="700">02</text>
+  <text x="44" y="175" fill="#fff" font-family="Georgia,serif" font-size="44" font-weight="700">Keep authorization</text>
+  <text x="44" y="225" fill="#fff" font-family="Georgia,serif" font-size="44" font-weight="700">deterministic</text>
+  <text x="44" y="305" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Identity · policy · least privilege.</text>
+</g>
+<g transform="translate(1070,260)">
+  <rect width="440" height="430" rx="28" fill="#171a38" stroke="#5a4faa" stroke-width="2"/>
+  <circle cx="72" cy="72" r="42" fill="#5c43c9"/><text x="72" y="84" text-anchor="middle" fill="#fff" font-family="Arial" font-size="34" font-weight="700">03</text>
+  <text x="44" y="175" fill="#fff" font-family="Georgia,serif" font-size="42" font-weight="700">Treat Agent Skills</text>
+  <text x="44" y="225" fill="#fff" font-family="Georgia,serif" font-size="42" font-weight="700">like supply chain</text>
+  <text x="44" y="305" fill="#bcc7d9" font-family="Arial,sans-serif" font-size="28">Scan · sandbox · monitor.</text>
+</g>
+<text x="90" y="830" fill="#8391a7" font-family="Arial,sans-serif" font-size="24">AI Security Practitioner Notes · Sam Etemad · sametemad.ca</text>
+</svg>
