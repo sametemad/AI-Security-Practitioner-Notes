@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0b1730"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset=".5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#60a5fa"/>
+    </marker>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg2)"/>
+  <rect x="80" y="68" width="110" height="7" rx="3.5" fill="url(#line)"/>
+  <text x="80" y="145" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">AI Security: From Model to Action</text>
+  <text x="80" y="194" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">A practical security flow for AI-assisted discovery, agent execution, and connected tools.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(70 295)">
+      <rect width="270" height="300" rx="28" fill="#0f223d" stroke="#4b4aa0" stroke-width="2"/>
+      <circle cx="62" cy="66" r="30" fill="#2c2466"/>
+      <text x="62" y="76" text-anchor="middle" fill="#c4b5fd" font-size="32">AI</text>
+      <text x="32" y="132" fill="#fff" font-size="29" font-weight="700">1. AI Models</text>
+      <text x="32" y="180" fill="#cbd5e1" font-size="20">Multi-model analysis</text>
+      <text x="32" y="216" fill="#cbd5e1" font-size="20">Repeated runs</text>
+      <text x="32" y="252" fill="#cbd5e1" font-size="20">Targeted context</text>
+    </g>
+
+    <g transform="translate(390 295)">
+      <rect width="270" height="300" rx="28" fill="#0f223d" stroke="#285b9f" stroke-width="2"/>
+      <circle cx="62" cy="66" r="30" fill="#173b68"/>
+      <path d="M47 51h30v30H47zM55 43h30v30" fill="none" stroke="#60a5fa" stroke-width="4"/>
+      <text x="32" y="132" fill="#fff" font-size="29" font-weight="700">2. Validate</text>
+      <text x="32" y="180" fill="#cbd5e1" font-size="20">Cross-model compare</text>
+      <text x="32" y="216" fill="#cbd5e1" font-size="20">Reduce false positives</text>
+      <text x="32" y="252" fill="#cbd5e1" font-size="20">Human verification</text>
+    </g>
+
+    <g transform="translate(710 295)">
+      <rect width="270" height="300" rx="28" fill="#0f223d" stroke="#287069" stroke-width="2"/>
+      <circle cx="62" cy="66" r="30" fill="#12443d"/>
+      <path d="M62 40l24 10v17c0 17-10 28-24 37-14-9-24-20-24-37V50z" fill="none" stroke="#2dd4bf" stroke-width="4"/>
+      <text x="32" y="132" fill="#fff" font-size="26" font-weight="700">3. Authorize</text>
+      <text x="32" y="180" fill="#cbd5e1" font-size="20">Deterministic policy</text>
+      <text x="32" y="216" fill="#cbd5e1" font-size="20">Identity &amp; least privilege</text>
+      <text x="32" y="252" fill="#cbd5e1" font-size="20">Human approval</text>
+    </g>
+
+    <g transform="translate(1030 295)">
+      <rect width="270" height="300" rx="28" fill="#0f223d" stroke="#285b9f" stroke-width="2"/>
+      <circle cx="62" cy="66" r="30" fill="#173b68"/>
+      <rect x="47" y="51" width="30" height="24" rx="8" fill="none" stroke="#60a5fa" stroke-width="4"/>
+      <circle cx="56" cy="63" r="3.5" fill="#60a5fa"/><circle cx="68" cy="63" r="3.5" fill="#60a5fa"/>
+      <path d="M62 44v-8" stroke="#60a5fa" stroke-width="4"/>
+      <text x="32" y="132" fill="#fff" font-size="26" font-weight="700">4. Agent Runtime</text>
+      <text x="32" y="180" fill="#cbd5e1" font-size="20">Prompt defenses</text>
+      <text x="32" y="216" fill="#cbd5e1" font-size="20">Tool access controls</text>
+      <text x="32" y="252" fill="#cbd5e1" font-size="20">Logging &amp; kill switch</text>
+    </g>
+
+    <g transform="translate(1350 295)">
+      <rect width="180" height="300" rx="28" fill="#0f223d" stroke="#51407c" stroke-width="2"/>
+      <circle cx="52" cy="66" r="30" fill="#2b1c4f"/>
+      <circle cx="42" cy="57" r="7" fill="#a78bfa"/><circle cx="64" cy="50" r="7" fill="#a78bfa"/><circle cx="65" cy="76" r="7" fill="#a78bfa"/>
+      <path d="M48 60l10-6M48 63l10 9" stroke="#a78bfa" stroke-width="3"/>
+      <text x="26" y="132" fill="#fff" font-size="24" font-weight="700">5. Skills / MCP</text>
+      <text x="26" y="180" fill="#cbd5e1" font-size="18">Dependencies</text>
+      <text x="26" y="214" fill="#cbd5e1" font-size="18">Sandboxing</text>
+      <text x="26" y="248" fill="#cbd5e1" font-size="18">Runtime watch</text>
+    </g>
+
+    <path d="M345 445H380" stroke="#60a5fa" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M665 445H700" stroke="#60a5fa" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M985 445H1020" stroke="#60a5fa" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M1305 445H1340" stroke="#60a5fa" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <rect x="80" y="674" width="1440" height="124" rx="26" fill="#0d1d34" stroke="#203653"/>
+    <text x="112" y="719" fill="#fff" font-size="26" font-weight="700">Three practitioner rules</text>
+    <text x="112" y="762" fill="#cbd5e1" font-size="21">Run models more than once</text>
+    <text x="594" y="762" fill="#cbd5e1" font-size="21">Keep authorization deterministic</text>
+    <text x="1065" y="762" fill="#cbd5e1" font-size="21">Treat agent skills as supply-chain code</text>
+  </g>
+
+  <text x="80" y="852" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Sam Etemad · sametemad.ca</text>
+</svg>
