@@ -1,6 +1,6 @@
 # AI Security Practitioner Notes
 
-![AI Security Practitioner Notes](assets/ai-security-practitioner-notes.svg)
+![AI Security Practitioner Notes](assets/ai-security-practitioner-notes.jpg)
 
 Technical notes and practitioner takeaways from **TL/IRL: AI for Security & Security for AI**, hosted by **Georgian × AI Sec Eng Toronto** in Toronto on **October 20, 2026**.
 
@@ -12,7 +12,7 @@ This repository documents my personal technical notes, observations, and securit
 2. **Security for AI Agents** — prompt injection, identity, deterministic authorization, trust boundaries, human approval, observability, and kill switches.
 3. **Agent Skills & MCP Supply Chain Security** — skills, scripts, tools, MCP connections, dependencies, sandboxing, and runtime monitoring.
 
-![Three Practical Pillars](assets/three-practical-pillars.svg)
+![Three Practical Pillars](assets/three-practical-pillars.jpg)
 
 ## Key Practitioner Takeaways
 
@@ -27,7 +27,7 @@ This repository documents my personal technical notes, observations, and securit
 - Agent systems need kill switches, graceful failure states, auditability, and human handoff.
 - Agent Skills and MCP-connected tools should be treated as a software supply-chain surface.
 
-![Three Takeaways](assets/three-takeaways.svg)
+![Three Takeaways](assets/three-takeaways.jpg)
 
 ## Repository Structure
 
